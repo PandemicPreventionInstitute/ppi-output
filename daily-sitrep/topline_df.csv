@@ -1,5 +1,5 @@
-"","type","n","change","pctchange"
-"1","countries",64,3,4.9
-"2","omicroncases",3121,630,25.3
-"3","global_cases",4330223,177133,4.3
-"4","pct_cases_seq",1.87,0.01,0.5
+"","Metric","Value","Change (#)","Change (%)","Change from"
+"1","Cumulative confirmed Omicron cases","3,120","630",25.3,"Yesterday"
+"2","Countries with confirmed Omicron case(s)","64","4",4.9,"Yesterday"
+"3","Total Covid-19 cases reported in the last 7 days","4,330,224","177,132",4.3,"7 days ago"
+"4","Percent of Covid-19 cases sequenced in the last 30 days*","1.87","0.01",0.5,"30 days ago"
