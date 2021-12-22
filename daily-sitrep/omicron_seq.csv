@@ -2,8 +2,8 @@
 "1","Argentina",454,NA,1
 "2","Australia",498,NA,53
 "3","Austria",365,NA,65
-"4","Belgium",184,NA,27
-"5","Brazil",30,NA,4
+"4","Belgium",225,NA,27
+"5","Brazil",31,NA,4
 "6","Botswana",291,NA,207
 "7","Canada",3402,NA,411
 "8","Switzerland",218,NA,28
@@ -18,11 +18,11 @@
 "17","Georgia",2,NA,1
 "18","Gibraltar",105,NA,49
 "19","Croatia",8,NA,6
-"20","Indonesia",5,NA,4
+"20","Indonesia",8,NA,4
 "21","India",220,NA,34
 "22","Ireland",144,NA,112
 "23","Israel",341,1,1
-"24","Italy",84,NA,17
+"24","Italy",86,NA,17
 "25","Japan",85,NA,27
 "26","Kenya",27,NA,27
 "27","Cambodia",5,NA,4
@@ -47,7 +47,7 @@
 "46","Trinidad & Tobago",5,NA,2
 "47","Uganda",25,NA,1
 "48","United States",1781,1,806
-"49","South Africa",1444,NA,201
+"49","South Africa",1594,NA,201
 "50","Denmark",26362,NA,NA
 "51","Estonia",656,NA,NA
 "52","South Korea",234,NA,NA
@@ -71,27 +71,27 @@
 "70","Lithuania",14,NA,NA
 "71","Latvia",14,NA,NA
 "72","Malaysia",13,NA,NA
-"73","Nigeria",11,NA,NA
-"74","Zambia",11,NA,NA
-"75","Réunion",7,NA,NA
-"76","Slovakia",7,NA,NA
-"77","Rwanda",6,NA,NA
-"78","Cuba",5,NA,NA
-"79","Maldives",5,NA,NA
-"80","China",4,NA,NA
-"81","Jordan",4,NA,NA
-"82","Cayman Islands",4,NA,NA
-"83","Qatar",4,NA,NA
-"84","Egypt",3,NA,NA
-"85","Malawi",3,NA,NA
-"86","Nepal",3,NA,NA
-"87","Philippines",3,NA,NA
-"88","Palestinian Territories",3,NA,NA
-"89","Taiwan",3,NA,NA
-"90","Bangladesh",2,NA,NA
-"91","Fiji",2,NA,NA
-"92","Liechtenstein",2,NA,NA
-"93","Oman",2,NA,NA
+"73","Malawi",12,NA,NA
+"74","Nigeria",11,NA,NA
+"75","Zambia",11,NA,NA
+"76","Oman",8,NA,NA
+"77","Réunion",7,NA,NA
+"78","Slovakia",7,NA,NA
+"79","Rwanda",6,NA,NA
+"80","Cuba",5,NA,NA
+"81","Maldives",5,NA,NA
+"82","China",4,NA,NA
+"83","Jordan",4,NA,NA
+"84","Cayman Islands",4,NA,NA
+"85","Qatar",4,NA,NA
+"86","Egypt",3,NA,NA
+"87","Nepal",3,NA,NA
+"88","Philippines",3,NA,NA
+"89","Palestinian Territories",3,NA,NA
+"90","Taiwan",3,NA,NA
+"91","Bangladesh",2,NA,NA
+"92","Fiji",2,NA,NA
+"93","Liechtenstein",2,NA,NA
 "94","United Arab Emirates",1,NA,NA
 "95","Aruba",1,NA,NA
 "96","Bahrain",1,NA,NA
