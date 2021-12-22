@@ -1,28 +1,28 @@
 "","Country/Region/Territory","Confirmed","Probable","GISAID"
 "1","Argentina",454,NA,1
-"2","Australia",498,NA,53
-"3","Austria",365,NA,65
+"2","Australia",523,NA,53
+"3","Austria",419,NA,65
 "4","Belgium",225,NA,27
 "5","Brazil",31,NA,4
 "6","Botswana",291,NA,207
-"7","Canada",3402,NA,411
-"8","Switzerland",218,NA,28
+"7","Canada",3614,NA,411
+"8","Switzerland",220,NA,28
 "9","Colombia",3,NA,1
 "10","Costa Rica",1,NA,1
 "11","Czechia",11,NA,2
-"12","Germany",1284,NA,8
+"12","Germany",1475,NA,8
 "13","Algeria",1,NA,1
 "14","Spain",213,NA,89
 "15","France",993,NA,1
 "16","United Kingdom",60508,14,7266
 "17","Georgia",2,NA,1
-"18","Gibraltar",105,NA,49
+"18","Gibraltar",122,NA,49
 "19","Croatia",8,NA,6
 "20","Indonesia",8,NA,4
-"21","India",220,NA,34
+"21","India",263,NA,34
 "22","Ireland",144,NA,112
 "23","Israel",341,1,1
-"24","Italy",86,NA,17
+"24","Italy",91,NA,17
 "25","Japan",85,NA,27
 "26","Kenya",27,NA,27
 "27","Cambodia",5,NA,4
@@ -46,7 +46,7 @@
 "45","Thailand",63,NA,2
 "46","Trinidad & Tobago",5,NA,2
 "47","Uganda",25,NA,1
-"48","United States",1781,1,806
+"48","United States",1930,1,806
 "49","South Africa",1594,NA,201
 "50","Denmark",26362,NA,NA
 "51","Estonia",656,NA,NA
