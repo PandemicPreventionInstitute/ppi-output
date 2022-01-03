@@ -1,124 +1,105 @@
-"","Country/region/territory","Confirmed","Probable","GISAID"
-"1","Argentina",454,NA,14
-"2","Australia",1474,1,1231
-"3","Austria",2116,NA,693
-"4","Belgium",696,NA,696
-"5","Bangladesh",7,NA,7
-"6","Brazil",154,NA,154
-"7","Brunei",8,NA,8
-"8","Botswana",382,NA,382
-"9","Canada",9607,NA,629
-"10","Switzerland",686,NA,686
-"11","Chile",325,NA,325
-"12","China",8,NA,8
-"13","Congo - Brazzaville",10,NA,10
-"14","Colombia",3,NA,3
-"15","Costa Rica",18,NA,1
-"16","Czechia",45,NA,45
-"17","Germany",13129,4,334
-"18","Denmark",46140,NA,3318
-"19","Algeria",4,NA,2
-"20","Ecuador",24,NA,24
-"21","Egypt",3,NA,1
-"22","Spain",600,NA,600
-"23","Finland",34,NA,3
-"24","France",3559,NA,331
-"25","United Kingdom",210122,53,43156
-"26","Georgia",51,NA,22
-"27","Ghana",66,NA,66
-"28","Gibraltar",122,NA,122
-"29","Greece",33,NA,2
-"30","Hong Kong SAR China",70,NA,18
-"31","Croatia",8,NA,8
-"32","Indonesia",68,NA,67
-"33","India",951,NA,205
-"34","Ireland",144,NA,144
-"35","Iran",43,NA,1
-"36","Israel",1741,NA,1259
-"37","Italy",425,NA,425
-"38","Jordan",794,NA,19
-"39","Japan",316,NA,152
-"40","Kenya",38,NA,38
-"41","Cambodia",34,NA,20
-"42","South Korea",625,NA,9
-"43","Lebanon",433,NA,4
-"44","Liechtenstein",14,NA,4
-"45","Sri Lanka",7,NA,5
-"46","Lithuania",46,NA,46
-"47","Luxembourg",5,NA,1
-"48","Morocco",28,NA,15
-"49","Maldives",5,NA,2
-"50","Mexico",254,NA,254
-"51","Malta",34,NA,34
-"52","Montenegro",8,NA,8
-"53","Mozambique",17,NA,17
-"54","Mauritius",14,NA,7
-"55","Malawi",34,NA,34
-"56","Malaysia",62,NA,16
-"57","Namibia",18,NA,17
-"58","Nigeria",45,NA,45
-"59","Netherlands",399,NA,399
-"60","Norway",10526,NA,308
-"61","Nepal",3,NA,3
-"62","New Zealand",78,NA,29
-"63","Oman",9,NA,9
-"64","Pakistan",75,NA,6
-"65","Panama",26,NA,1
-"66","Peru",116,NA,12
-"67","Philippines",4,NA,3
-"68","Poland",25,NA,27
-"69","Puerto Rico",NA,NA,60
-"70","Portugal",115,NA,115
-"71","Réunion",20,NA,7
-"72","Romania",38,NA,15
-"73","Russia",48,NA,48
-"74","Senegal",26,NA,26
-"75","Singapore",885,NA,281
-"76","Sierra Leone",1,NA,1
-"77","Slovakia",11,NA,10
-"78","Slovenia",51,NA,12
-"79","Sweden",789,NA,376
-"80","Thailand",739,NA,20
-"81","Trinidad & Tobago",5,NA,3
-"82","Turkey",117,NA,117
-"83","Uganda",25,NA,1
-"84","Ukraine",1,NA,1
-"85","United States",15057,1,15037
-"86","Venezuela",7,NA,2
-"87","Vietnam",1,NA,1
-"88","South Africa",1894,NA,1894
-"89","Zambia",46,NA,46
-"90","Estonia",2392,NA,NA
-"91","Iceland",200,NA,NA
-"92","Latvia",164,NA,NA
-"93","Bermuda",144,NA,NA
-"94","Cyprus",63,NA,NA
-"95","Hungary",61,NA,NA
-"96","Taiwan",50,NA,NA
-"97","Zimbabwe",50,NA,NA
-"98","Palestinian Territories",48,NA,NA
-"99","Cuba",44,NA,NA
-"100","Cayman Islands",44,NA,NA
-"101","Uruguay",44,NA,NA
-"102","Kuwait",13,NA,NA
-"103","Tunisia",10,NA,NA
-"104",NA,9,NA,NA
-"105","Rwanda",6,NA,NA
-"106","Togo",5,NA,NA
-"107","Belarus",4,NA,NA
-"108","Myanmar (Burma)",4,NA,NA
-"109","Qatar",4,NA,NA
-"110","Paraguay",3,NA,NA
-"111","Burkina Faso",2,NA,NA
-"112","Fiji",2,NA,NA
-"113","United Arab Emirates",1,NA,NA
-"114","Albania",1,NA,NA
-"115","Aruba",1,NA,NA
-"116","Bahrain",1,NA,NA
-"117","Congo - Kinshasa",1,NA,NA
-"118","Curaçao",1,NA,NA
-"119","Dominican Republic",1,NA,NA
-"120","Jamaica",1,NA,NA
-"121","North Macedonia",1,NA,NA
-"122","Serbia",1,NA,NA
-"123","Saudi Arabia",1,NA,NA
+"","Country/Region/Territory","Confirmed","Probable","GISAID"
+"1","Argentina",454,NA,1
+"2","Australia",523,NA,53
+"3","Austria",419,NA,65
+"4","Belgium",225,NA,27
+"5","Brazil",31,NA,4
+"6","Botswana",291,NA,207
+"7","Canada",3614,NA,411
+"8","Switzerland",220,NA,28
+"9","Colombia",3,NA,1
+"10","Costa Rica",1,NA,1
+"11","Czechia",11,NA,2
+"12","Germany",1475,NA,8
+"13","Algeria",1,NA,1
+"14","Spain",213,NA,89
+"15","France",993,NA,1
+"16","United Kingdom",60508,14,7266
+"17","Georgia",2,NA,1
+"18","Gibraltar",122,NA,49
+"19","Croatia",8,NA,6
+"20","Indonesia",8,NA,4
+"21","India",263,NA,34
+"22","Ireland",144,NA,112
+"23","Israel",341,1,1
+"24","Italy",91,NA,17
+"25","Japan",85,NA,27
+"26","Kenya",27,NA,27
+"27","Cambodia",5,NA,4
+"28","Sri Lanka",4,NA,1
+"29","Mexico",25,NA,18
+"30","Montenegro",5,NA,1
+"31","Mauritius",14,NA,7
+"32","Netherlands",183,NA,32
+"33","Norway",4651,NA,18
+"34","Pakistan",2,NA,1
+"35","Panama",1,NA,1
+"36","Peru",12,NA,4
+"37","Poland",7,NA,5
+"38","Portugal",90,NA,29
+"39","Romania",16,NA,13
+"40","Russia",41,NA,24
+"41","Senegal",18,NA,11
+"42","Singapore",93,NA,80
+"43","Slovenia",51,NA,1
+"44","Sweden",232,NA,83
+"45","Thailand",63,NA,2
+"46","Trinidad & Tobago",5,NA,2
+"47","Uganda",25,NA,1
+"48","United States",1930,1,806
+"49","South Africa",1594,NA,201
+"50","Denmark",26362,NA,NA
+"51","Estonia",656,NA,NA
+"52","South Korea",234,NA,NA
+"53","Iceland",200,NA,NA
+"54","Bermuda",74,NA,NA
+"55","Chile",73,NA,NA
+"56","Zimbabwe",50,NA,NA
+"57","Ghana",40,NA,NA
+"58","Finland",34,NA,NA
+"59","Cyprus",33,NA,NA
+"60","Turkey",30,NA,NA
+"61","Lebanon",29,NA,NA
+"62","Morocco",28,NA,NA
+"63","New Zealand",28,NA,NA
+"64","Hong Kong SAR China",27,NA,NA
+"65","Ecuador",22,NA,NA
+"66","Namibia",18,NA,NA
+"67","Greece",17,NA,NA
+"68","Mozambique",17,NA,NA
+"69","Hungary",15,NA,NA
+"70","Lithuania",14,NA,NA
+"71","Latvia",14,NA,NA
+"72","Malaysia",13,NA,NA
+"73","Malawi",12,NA,NA
+"74","Nigeria",11,NA,NA
+"75","Zambia",11,NA,NA
+"76","Oman",8,NA,NA
+"77","Réunion",7,NA,NA
+"78","Slovakia",7,NA,NA
+"79","Rwanda",6,NA,NA
+"80","Cuba",5,NA,NA
+"81","Maldives",5,NA,NA
+"82","China",4,NA,NA
+"83","Jordan",4,NA,NA
+"84","Cayman Islands",4,NA,NA
+"85","Qatar",4,NA,NA
+"86","Egypt",3,NA,NA
+"87","Nepal",3,NA,NA
+"88","Philippines",3,NA,NA
+"89","Palestinian Territories",3,NA,NA
+"90","Taiwan",3,NA,NA
+"91","Bangladesh",2,NA,NA
+"92","Fiji",2,NA,NA
+"93","Liechtenstein",2,NA,NA
+"94","United Arab Emirates",1,NA,NA
+"95","Aruba",1,NA,NA
+"96","Bahrain",1,NA,NA
+"97","Brunei",1,NA,NA
+"98","Iran",1,NA,NA
+"99","Kuwait",1,NA,NA
+"100","Luxembourg",1,NA,NA
+"101","Saudi Arabia",1,NA,NA
+"102","Sierra Leone",1,NA,NA
+"103","Tunisia",1,NA,NA
+"104","Ukraine",1,NA,NA
