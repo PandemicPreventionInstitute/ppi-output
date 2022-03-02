@@ -1,0 +1,177 @@
+﻿N,Country,City ,State,Latitude ,Longitude ,Website
+1,United States,Athens,Georgia,33.9519,-83.3576,https://lipplab-uga.github.io/covid_wastewater_lipplab_athens/
+2,United States,New Haven,Connecticut,41.3083,-72.9279,https://yalecovidwastewater.com/
+3,United States ,Clemson,South Carolina,34.6834,-82.8374,https://www.clemson.edu/covid-19/testing/wastewater-dashboard.html
+4,United States ,,Utah,39.321,-111.0937,https://deq.utah.gov/water-quality/sars-cov-2-sewage-monitoring
+5,United States ,Tempe,Arizona,33.4255,-111.94,https://covid19.tempe.gov/
+6,United States ,,Massachusetts,42.350671,-70.957796,http://www.mwra.com/biobot/biobotdata.htm
+7,United States,,Ohio,40.4173,-82.9071,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards/wastewater
+8,United States,New Castle (County),Delaware ,39.695531,-75.673488,https://compassred.shinyapps.io/ncco_wastewater/ 
+9,United States,Boise,Idaho ,43.615,-116.2023,https://www.cityofboise.org/departments/mayor/coronavirus-covid-19-information/covid-19-data/wastewater-testing/
+10,United States,Bozeman,Montana ,45.677,-111.0429,https://www.healthygallatin.org/coronavirus-covid-19/wastewater-data/
+10,United States,Big Sky,Montana ,45.2618,-111.308,https://www.healthygallatin.org/coronavirus-covid-19/wastewater-data/
+10,United States,West Yellowstone,Montana ,44.6621,-111.1041,https://www.healthygallatin.org/coronavirus-covid-19/wastewater-data/
+10,United States,Three Forks ,Montana ,45.8924,-111.5522,https://www.healthygallatin.org/coronavirus-covid-19/wastewater-data/
+11,Netherlands ,,,52.1326,5.2913,https://coronadashboard.rijksoverheid.nl/landelijk/rioolwater
+12,Spain,Valencia ,,39.4699,-0.3763,https://www.idrica.com/blog/valencia-anticipates-coronavirus-outbreaks-thanks-to-goaigua-sars-analytics/
+13,Canada,Ottawa ,Ontario ,45.4215,-75.6972,https://613covid.ca/wastewater/#
+14,Hungary,,,47.168387,19.503257,https://www.nnk.gov.hu/index.php/koronavirus/szennyvizvizsgalatok
+15,Finland,,,61.9241,25.748201,https://www.thl.fi/episeuranta/jatevesi/jatevesiseuranta_viikkoraportti.html
+16,United States,Gilbert,Arizona,33.352818,-111.789215,https://experience.arcgis.com/experience/19a447509ff44fcf922ad0892b7b2cce/page/page_21/
+17,United Kingdom,,Scotland,56.8169,-4.1827,https://informatics.sepa.org.uk/RNAmonitoring/
+18,Switzerland,Zurich,,47.396165,8.545548,https://sensors-eawag.ch/sars/zurich.html
+18,Switzerland,Lausanne,Vaud,46.524429,6.59186,https://sensors-eawag.ch/sars/lausanne.html
+18,Switzerland,Thal,,47.489928,9.568432,https://sensors-eawag.ch/sars/altenrhein.html
+18,Switzerland,Chur,,46.870734,9.529135,https://sensors-eawag.ch/sars/chur.html
+18,Switzerland,Laupen,,46.917233,7.240582,https://sensors-eawag.ch/sars/laupen.html
+18,Switzerland,Lugano,,46.009707,8.917229,https://sensors-eawag.ch/sars/lugano.html
+19,United States,Corvallis,Oregon ,44.5646,-123.262,http://people.oregonstate.edu/~levit/Software/CorvallisWastewater102120.html
+20,Australia,,Victoria,-37.809196,144.970584,https://www.dhhs.vic.gov.au/wastewater-monitoring-covid-19
+21,Brazil,,Rio Grande do Sul,-29.18624,-51.170118,https://app.powerbi.com/view?r=eyJrIjoiMzNhZjNiNjUtZjQxZS00ZDA0LWFhZTctNjNlNjg0Mjg5Y2FiIiwidCI6IjE1ZGNkOTA5LThkYzAtNDBlOS1hMWU1LWNlY2IwNTNjZGQxYSJ9&pageName=ReportSection
+22,South Africa,,,-33.924829,18.423231,https://www.samrc.ac.za/wbe/
+23,Luxembourg,,,49.610152,6.130619,https://www.list.lu/en/covid-19/coronastep/
+24,United States,Indiana,Pennsylvania ,40.623129,-79.155072,https://www.indianaboro.com/news/categories/wastewater-surveillance
+25,Spain ,,Catalonia (region),41.98311,2.82493,https://sarsaigua.icra.cat/
+26,United States,Nantucket (Island) ,Massachusetts,41.266753,-70.015849,https://nantucket-ma.gov/1864/Surfside-Wastewater-Treatment-Facility-C
+27,United States,Keene,New Hampshire,42.926356,-72.283286,https://www.keene.edu/featured/fall2020/covid-19-dashboard/
+28,United States,Burlington,Vermont,44.488038,-73.208025,https://www.burlingtonvt.gov/covid-19/wastewater 
+29,United States,,Oregon ,44.057834,-120.733118,https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonsSARS-CoV-2WastewaterMonitoring/WastewaterDashboard
+30,United States,Jupiter,Florida,26.924556,-80.105465,https://loxahatcheeriver.org/wastewater-surveillance/
+31,Australia,,Queensland,-21.631114,148.039385,https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/wastewater
+32,United States,,Wisconsin,43.7844,-88.7879,https://www.dhs.wisconsin.gov/covid-19/wastewater.htm
+33,Brazil,Contagem and Belo Horizonte,Minas Gerais,-19.912346,-44.028262,https://t.co/RY4D877qeW?amp=1
+34,United States,Erie,Pennsylvania ,42.1292,-80.0851,https://eriecountypa.gov/tag/biobot/ 
+35,United States,,Michigan,44.764863,-84.705233,https://egle.maps.arcgis.com/apps/webappviewer/index.html?id=8e3cb66aca204876a1db0e1b663af805
+36,United States,Chattanooga,Tennessee,35.052821,-85.333038,https://connect.chattanooga.gov/covid-biobot-analysis-reports/
+37,United States,,Pennsylvania,41.289273,-77.44583,https://www.cor.pa.gov/Pages/COVID-19.aspx
+38,United States,Southeastern ,Virginia ,37.0299,-76.3452,https://www.hrsd.com/HRSD-COVID-19-Surveillance
+39,United States,,Colorado,39.7392,-104.9903,https://cdphe.maps.arcgis.com/apps/opsdashboard/index.html#/d79cf93c3938470ca4bcc4823328946b
+40,United States ,Yorkville-Bristol Sanitary District (https://ybsd.org/) ,Illinois ,41.644147,-88.45028,https://portal.rjngroup.com/arcgisportal/apps/opsdashboard/index.html#/594d4b1b2dd840958cedb50b1381982b 
+41,United States,,Missouri,38.576282,-92.175388,https://storymaps.arcgis.com/stories/f7f5492486114da6b5d6fdc07f81aacf
+42,United States,Cambridge,Massachusetts,42.374279,-71.116517,https://cityofcambridge.shinyapps.io/COVID19/#shiny-tab-wastewater
+43,United States,"Las Cruces, Chaparral, Deming, Roswell, Hagerma, Lovington, & Hobbs",New Mexico,32.63187,-105.868211,https://www.env.nm.gov/wastewater-surveillance-system-data-dashboard/
+44,Canada,Windsor,Ontario,42.29682,-83.025549,https://wechu.org/cv/weekly-epidemiological-summary
+45,United States,San Diego,California,32.879732,-117.229282,https://returntolearn.ucsd.edu/dashboard/index.html
+46,United States,Helena ,Montana,46.590977,-112.019816,https://www.lccountymt.gov/health/covid-19/local-covid-19-decision-making-dashboard.html
+47,USA,Mansfield,Connecticut,41.811451,-72.26445,https://covid-testing.uconn.edu/dashboard/
+48,France,,,46.601375,2.309586,https://www.reseau-obepine.fr/carte-des-tendances/
+49,Canada,Calgary,Alberta,50.994023,-114.071468,https://www.chi-csm.ca/
+50,Spain ,Madrid ,,40.420033,-3.701925,https://www.canaldeisabelsegunda.es/mapa-vigia
+51,Canada,,Northwest Territories,64.8255,-124.8457,https://nwt-covid.shinyapps.io/Testing-and-Cases/?lang=1 
+52,Sweden,Uppsala,,59.8586,17.69389,https://crush-covid.shinyapps.io/crush_covid/ 
+53,United States,Telluride ,Colorado,37.9375,-107.8123,https://sanmiguelco.maps.arcgis.com/apps/opsdashboard/index.html#/56e682135d1d4128bee1a0426aed1d10
+54,Canada,,Metro Vancouver,49.2501,-123.0824,http://www.metrovancouver.org/services/liquid-waste/environmental-management/covid-19-wastewater/Pages/default.aspx
+55,Spain,,,40.4637,-3.7492,https://miteco.maps.arcgis.com/apps/opsdashboard/index.html#/a8c1f281dfc445169a78178b70774a62
+56,USA,St. Mary's County,Maryland,38.34417,-76.576428,http://smchd.org/covid-19-wastewater
+57,Spain,Edar Bens,A Coruna,43.3677,-8.4559,Edarbens.es/covid19
+58,USA,"Davis, Gilroy, Palo Alto, Redwood City, Sacramento, San Jose, San Fransisco, Modesto, Merced, & Sunnyvale",California,37.337959,-121.887077,https://soe-wbe-pilot.wl.r.appspot.com/charts#page=overview
+58,USA ,Modesto,California,37.60952598,-121.0120767,https://soe-wbe-pilot.wl.r.appspot.com/charts#page=overview
+58,USA,Merced,California,37.25377144,-120.5252675,https://soe-wbe-pilot.wl.r.appspot.com/charts#page=overview
+59,USA,Davis,California,38.543235,-121.741028,https://healthydavistogether.org/wastewater-testing/
+60,Sweden,"Örebro, Umeå, Uppsala, & Stockholm",,59.437352,17.925357,https://covid19dataportal.se/data_types/environment/wastewater/
+61,USA,South Hadley,Massachusetts,42.259215,-72.5748,https://southhadley.org/DocumentCenter/Index/604
+61,Greece,Athens,Attica,37.940447,23.586069,http://trams.chem.uoa.gr/covid-19/
+61,Slovenia,,,46.051235,14.638275,https://covid-19.sledilnik.org/en/stats
+61,USA,Berekely,California,37.871598,-122.27306,https://coronavirus.berkeley.edu/dashboard/wastewater/
+61,Canada,Kingston,Ontario,44.234471,-76.47682,https://www.kflaph.ca/en/healthy-living/covid-19-in-city-of-kingston-wastewater.aspx
+61,USA,"Gilroy, Palo Alto, San José, & Sunnyvale",California,37.003027,-121.556574,https://www.sccgov.org/sites/covid19/Pages/dashboard-wastewater.aspx
+61,Canada,London,Ontario,42.984905,-81.245234,http://www.519covid.ca/
+61,Canada,Region of Peel,Ontario,43.550778,-79.586642,https://www.peelregion.ca/health-professionals/covid-19/#symptoms
+61,Austria,Hohenems,Vorarlberg,47.36556,9.663055,https://www.coron-a.at/dashboard/
+61,Canada,Saskatoon,Saskatchewan,52.157922,-106.670099,https://water.usask.ca/covid-19/#ResearchersandFunding
+61,Australia,,New South Wales,-33.85437,151.209325,https://www.health.nsw.gov.au/Infectious/covid-19/Pages/sewage-surveillance.aspx
+61,USA,"Newport, Cascades, and Corvallis",Oregon,44.622395,-124.045247,https://trace.oregonstate.edu/testing-results
+61,Bangladesh,Dhaka,,23.8103,90.4125,https://erin-wettstone.shinyapps.io/Dashboard_V6/ 
+61,USA,,Michigan,44.3148,-85.6024,https://arcg.is/1KySSv 
+61,Canada,,Quebec,46.804863,-71.21337,https://www.centreau.ulaval.ca/donnees-du-projet-centreau-covid/
+61,France,,,47.3894,2.501875,https://covidtracker.fr/covidexplorer/
+61,USA,Palm Springs,California,33.844916,-116.505921,https://www.palmspringsca.gov/government/departments/community-economic-development-department/wastewater-treatment-plant-covid-19-test-reports
+61,Australia,,Tasmania,-41.90952,146.507197,https://www.coronavirus.tas.gov.au/facts/covid-19-wastewater-testing/covid-19-wastewater-testing-results
+61,USA,Jackson county & Haywood county,North Carolina ,35.6244,-82.9932,https://wastewater.covid19.mathematica.org/ 
+61,USA,Louisville,Kentucky,38.219604,-85.759404,https://louisville.edu/envirome/thecoimmunityproject/dashboard
+61,Canada,,Waterloo,43.4758,-80.5438,https://www.regionofwaterloo.ca/en/health-and-wellness/covid-19-wastewater-surveillance.aspx#
+61,USA,,North Carolina ,35.76988083,-78.65646851,https://covid19.ncdhhs.gov/dashboard/wastewater-monitoring
+61,Australia,,Western ,-31.994049,115.835394,https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-wastewater-testing
+61,Canada,,,55.363587,-100.707641,https://cwn-rce.ca/covid-19-wastewater-coalition/covid-19-wastewater-coalition-maps/
+85,USA,Arapahoe (County),Colorado,39.637074,-104.489017,https://www.biobot.io/data
+85,USA,Berkshire (County),Massachusetts,42.374463,-73.221437,https://www.biobot.io/data
+85,USA,Dauphin (County),Pennsylvania,40.44096,-76.82678,https://www.biobot.io/data
+85,USA,Elko (County),Nevada,40.834453,-115.759622,https://www.biobot.io/data
+85,USA,Erie (County),Pennsylvania,42.018673,-80.086436,https://www.biobot.io/data
+85,USA,Essex (County),Massachusetts,42.650697,-70.897948,https://www.biobot.io/data
+85,USA,Fairfield (County),Connecticut,41.25669,-73.354763,https://www.biobot.io/data
+85,USA,Franklin (County),Pennsylvania,39.977455,-77.812662,https://www.biobot.io/data
+85,USA,Hamilton (County),Tennessee,35.148477,-85.164287,https://www.biobot.io/data
+85,USA,Hampshire (County),Massachusetts,42.352508,-72.798132,https://www.biobot.io/data
+85,USA,Indiana (County),Pennsylvania,40.575313,-79.029223,https://www.biobot.io/data
+85,USA,Jackson (County),Oregon,42.353189,-122.780187,https://www.biobot.io/data
+85,USA,Jefferson (County),Kentucky,38.211773,-85.708664,https://www.biobot.io/data
+85,USA,Lake (County),Indiana,41.371606,-87.433575,https://www.biobot.io/data
+85,USA,Miami-Dade (County),,25.842894,-80.518517,https://www.biobot.io/data
+85,USA,Middlesex (County),Massachusetts,42.43573,-71.149927,https://www.biobot.io/data
+85,USA,Monterey (County),California,36.601633,-121.888659,https://www.biobot.io/data
+85,USA,Multnomah (County),Oregon,45.50617,-122.667678,https://www.biobot.io/data
+85,USA,Nantucket (County),Massachusetts,41.276193,-70.143865,https://www.biobot.io/data
+85,USA,Nassau (County),New York,40.735359,-73.571561,https://www.biobot.io/data
+85,USA,New Castle (County),Delaware,39.546088,-75.665888,https://www.biobot.io/data
+85,USA,Peoria (County),Illinois,40.700313,-89.555628,https://www.biobot.io/data
+85,USA,Placer (County),California,39.061398,-120.830995,https://www.biobot.io/data
+85,USA,Ramsey (County),Minnesota,45.037367,-93.122861,https://www.biobot.io/data
+85,USA,Sacramento (County),California,38.590265,-121.469957,https://www.biobot.io/data
+85,USA,Shelby (County),Tennessee,35.15889,-90.063042,https://www.biobot.io/data
+85,USA,Stafford (County),Virginia,38.374765,-77.359461,https://www.biobot.io/data
+85,USA,Steuben (County),Indiana,41.629026,-85.065672,https://www.biobot.io/data
+85,USA,Suffolk (County),Massachusetts,42.358143,-71.04061,https://www.biobot.io/data
+85,USA,Union (County),New Jersey,40.680387,-74.383628,https://www.biobot.io/data
+86,USA,Erie (County),New York,42.9024,-78.8662,http://erie.gov/covid19-wastewater/
+87,Germany,Berlin,Germany ,52.52,13.405,https://bimsbstatic.mdc-berlin.de/akalin/AAkalin_pathogenomics/sarscov2_ww_reports/210528_wastewaterall_pigxsarscov2ww_default/index.html
+88,USA,,Wyoming ,43.076,-107.2903,https://covidwastewatermonitor.wyo.gov/
+89,India,Bangalore,Karnataka,12.97828,77.58744,https://storymaps.arcgis.com/stories/c42be68c85634d19a5d92873a10bda66
+90,Belgium,,,50.5039,4.4699,https://datastudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/p_ggbfgsqtmc
+91,USA,Lawrence,Kansas,38.9717,-95.2353,https://experience.arcgis.com/experience/4456bae8a38f4b6180e008477382fff9/page/page_0/
+92,USA,Houston ,Texas,29.7604,-95.3698,https://covidwwtp.spatialstudieslab.org/
+93,USA,San Bernardino,California,34.07730082,-117.2896817,https://datastudio.google.com/u/0/reporting/430e67c8-acaf-4574-a2d4-48d0b665ab05/page/jMhOC
+94,New Zealand ,,,-40.9006,174.886,https://www.esr.cri.nz/our-expertise/covid-19-response/wastewater-testing-results/
+95,Canada ,,Newfoundland Labrador,53.1355,-57.6604,https://www.gov.nl.ca/ecc/waterres/wastewater-surveillance-for-covid-19-virus/ 
+96,Canada,Durham,Ontario ,43.9368,-78.9288,https://app.powerbi.com/view?r=eyJrIjoiMjU2MmEzM2QtNDliNS00ZmIxLWI5MzYtOTU0NTI1YmU5MjQ2IiwidCI6IjUyZDdjOWMyLWQ1NDktNDFiNi05YjFmLTlkYTE5OGRjM2YxNiJ9 
+97,South Africa,Johannesburg,Gauteng,-26.13141431,28.11777887,https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/weekly-reports/wastewater-based-epidemiology-for-sars-cov-2-in-south-africa/
+98,Canada,"Barrie, Collingwood, Midland, Orillia",Ontario ,44.3894,-79.6903,https://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19/covid-19-wastewater-surveillance 
+99,Austria ,,,47.5162,14.5501,https://corona.hydro-it.com/
+100,Brazil,"Belo Horizonte, Brasilia, Curitiba, Recife, Rio de Janeiro, Fortaleza",,-14.235,-51.9253,https://app.powerbi.com/view?r=eyJrIjoiNzMxYjdiZGYtZDVjNy00NTMwLWIwZmItYmQwOWJhNzk3YmU1IiwidCI6Ijc1NmU3MTc4LTA1ZmYtNGVmYy05OTY2LTU2ODFlNjE2MjA3MCJ9&pageName=ReportSectiond497bb36400a320db4c7 
+101,Turkey,,,38.9637,35.2433,https://covid19.tarimorman.gov.tr/ 
+102,USA,,Michigan,42.7325,-84.5555,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173-573480--,00.html "
+103,Canada,Guelph,Ontario,43.5327,80.2262,https://news.uoguelph.ca/2019-novel-coronavirus-information/u-of-g-covid-19-wastewater-report/
+104,USA,"Ann Arbor, Ypsilanti, Jackson, Flint ",Michigan ,42.2808,-83.743,https://umich-wbe.shinyapps.io/sars-cov-2_dash/ 
+105,Canada,York Region,Ontario,43.86018852,-79.31497495,https://www.york.ca/wps/portal/yorkhome/health/yr/covid-19/covid19inyorkregion/01covid19inyorkregion/!ut/p/z1/tZJLT-MwFIV_C4suI187SW0vTeg0CTQtjz7iTZVJ09RMk5SMKTC_fhxUJISgMGLshV-6Plfn80ESLZCss70qM62aOtuacyr7y0gMozA8h3jssQAEjEVMKIMBx2j-XAAfDAFIfuX9kQJ5XH6GJJK7XK1QStyCspwzh4KfO16W9x2Of67MxNc-5-uMd3JI5rXe6Q1Kn9pl3tS6qHUPnpr2lzn81krfP19smqowc5Ft9aYHebNXKwfzww5zVXcv2qI0mHoA-J1rFH_m3cAl7SgYlcZBpjeOqtcNWrz0OuzeiC7e72Wk1O3dnRTGXufpUaOFbX_zDuZrh8Nr5kE0i6mY4TF4kXsoIMTrhziAGMIxg-gHnfhnLMRwTg4FR_43NfmgH0K8Imi-V8UDmtZNW5m8Xv9jHMKXDpQFIhRDmMDNlMLlgHqsfzGaXFzhb3b4xIBledeqPAW78sSu_P-BE0cQYNHF3x24IEgUsFM3Zklil31il31il31iN_ez78LZVdNpxVx_WzLNo1u_rJZnp4mTxvs_R5eRODn5Cx0G6fA!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#.Yd3nnYjMK3A?utm_source=newmarkettoday.ca&utm_campaign=newmarkettoday.ca%3A%20outbound&utm_medium=referral
+106,Canada ,,Windsor and Essex ,42.1639,-82.7347,https://www.wesparkhealth.com/covid-screening-platform#Dashboard
+107,Latvia,,,56.8796,24.6032,https://bior.lv/lv/par-mums/jaunumi/notekudenu-monitorings-covid-19-izplatibas-noteiksanai 
+108,Israel,,,31.0461,34.8516,https://app.powerbi.com/view?r=eyJrIjoiNjY5ZjM2ZTctMGM5Mi00NTZmLTk0NjMtZWQ2OThkYWZhMTA1IiwidCI6ImIzYzdlZDM0LWQxZjAtNDg5Zi05YzllLWE0YmNlYTk0YmJlNCIsImMiOjl9
+109,USA,Alameda (County),California,37.57494286,-121.970015,https//data.covid-web.org
+109,USA,Contra Costa (County),California,37.9007163,-122.0703692,https//data.covid-web.org
+109,USA,Fresno (County),California,36.73607811,-119.7870492,https//data.covid-web.org
+109,USA,Imperial (County),California,32.77359004,-115.5009086,https//data.covid-web.org
+109,USA,Kern (County),California,35.38214461,-119.0098497,https//data.covid-web.org
+109,USA,Los Angeles (County),California,34.06274901,-118.2488381,https//data.covid-web.org
+109,USA,Marin (County),California,37.97115302,-122.5217449,https//data.covid-web.org
+109,USA,Napa (County),California,38.17456548,-122.2539476,https//data.covid-web.org
+109,USA,San Bernadino (County),California,34.14450508,-117.319367,https//data.covid-web.org
+109,USA,San Francisco (County),California,37.74706729,-122.444401,https//data.covid-web.org
+109,USA,Solano (County),California,38.24417303,-122.0395073,https//data.covid-web.org
+110,USA,Baltimore,Maryland,39.27659775,-76.6438586,https://mdewin64.mde.state.md.us/WSA/SSI/index.html
+111,USA,Saint Paul,Minnesota,44.9452276,-93.1668868,https://metrotransitmn.shinyapps.io/metc-wastewater-covid-monitor/ 
+112,Canada,,Ottawa,43.68813,-79.39576,https://covid19-sciencetable.ca/ontario-dashboard/#wastewatersignal 
+113,USA,Albany,New York,42.65254397,-73.74927754,https://mbcolli.shinyapps.io/SARS2EWSP/#
+114,Canada,Brockville,Ontario,44.6018501,-75.66267311,https://healthunit.org/health-information/covid-19/local-cases-and-statistics/dashboard/
+115,USA,Framingham,Massachusetts,42.30013809,-71.43453531,https://www.district2framingham.com/2022/01/20/framingham-covid-19-update/
+116,USA,San Antonio,Texas,29.5877927,-98.6194476,https://engineering.utsa.edu/vkapoor/research/wastewater-covid/
+117,USA,Baton Rouge,Louisiana,30.41285075,-91.18656631,https://www.lsu.edu/roadmap/covid-dashboard/index.php
+118,USA,Millbury,Massachusetts,42.21238934,-71.78789456,https://www.ubcleanwater.org/pretreatment/pages/covid-19-wastewater-monitoring
+119,Canada,Toronto,Ontario,43.65624799,-79.37939292,https://www.toronto.ca/home/covid-19/covid-19-pandemic-data/covid-19-wastewater-surveillance/
+120,USA,,,33.799442,-84.328331,https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance
+121,USA,,California ,38.63983,-121.4923,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/CalSuWers-Dashboard.aspx
+122,Canada,Thunder Bay,Ontario,48.2809,-89.2477,https://www.tbdhu.com/coviddata 
+123,USA,,Maine,44.5282,-69.665,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml 
+124,USA,,Minnesota,44.9397,-93.3474,https://experience.arcgis.com/experience/a8d269bd670a421e9fd45f967f23f13c 
+125,USA,Tulsa,Oklahoma,36.154,-95.9928,https://www.tulsa-health.org/coronavirus-disease-2019-covid-19/tulsa-county-covid-19-data 
+125,USA,Oklahoma City,Oklahoma,35.4676,-97.5164,https://www.tulsa-health.org/coronavirus-disease-2019-covid-19/tulsa-county-covid-19-data 
+126,USA,,Nevada,38.8026,-116.4194,https://thenevadaindependent.com/coronavirus-data-nevada 
