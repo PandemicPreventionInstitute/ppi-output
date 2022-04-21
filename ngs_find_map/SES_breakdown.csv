@@ -1,6 +1,5 @@
-"world_bank_economies","SES_pop_rate","SES_cases_rate","SES_test_rate","SES_sequ_rate"
-"High income",16.1863173255081,57.6836443804351,63.7927898607875,92.4913675231169
-"Low income",7.89289793742015,0.31881382682166,0.414242148377658,0.0695515305330345
-"Lower middle income",37.7841285552232,15.7584107568166,18.2622990336885,2.31273503125763
-"No income data",0.00783278101512317,0,0,0.00104832739364344
-"Upper middle income",38.1288234008334,26.2391310359266,17.5306689571463,5.12529758769883
+"variable","High income","Upper middle income","Lower middle income","Low income"
+"% of global population",16.2,38.1,37.8,7.9
+"% of global cases in the past year",57.7,26.2,15.8,0.3
+"% of global tests in the past year",63.8,17.5,18.3,0.4
+"% of sequences collected & submitted in the past year",92.5,5.1,2.3,0.1
